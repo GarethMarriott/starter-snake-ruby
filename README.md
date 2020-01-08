@@ -1,3 +1,6 @@
+# -- DEPRECATION WARNING --
+This repo has been moved to https://github.com/BattlesnakeOfficial/starter-snake-ruby and will be archived.
+
 # starter-snake-ruby
 
 A simple [Battlesnake AI](http://battlesnake.io) written in Ruby.
